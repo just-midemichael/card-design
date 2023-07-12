@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: cursive;
+    -webkit-tap-highlight-color: transparent;
 }
 body {
     min-width: 250px;
